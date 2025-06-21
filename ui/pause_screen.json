@@ -1,0 +1,19 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:pause_screen": {
+    "description": {
+      "identifier": "pause_screen.custom"
+    },
+    "elements": [
+      {
+        "type": "button",
+        "text": "§aToggle X‑Ray",
+        "position": { "x": 10, "y": 10 },
+        "size": { "width": 120, "height": 20 },
+        "on_click": {
+          "open_url": "https://pastebin.com/raw/your_toggle_url"
+        }
+      }
+    ]
+  }
+}
