@@ -1,0 +1,16 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "X-Ray Toggle UI",
+    "description": "Toggle X‑Ray visual via pause menu",
+    "uuid": "AAAAAAAA-BBBB-CCCC-DDDD-EEEEEEEEEEEE",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "FFFFFFFF-GGGG-HHHH-IIII-JJJJJJJJJJJJ",
+      "version": [1, 0, 0]
+    }
+  ]
+}
